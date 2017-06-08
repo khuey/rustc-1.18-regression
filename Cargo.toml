@@ -1,0 +1,8 @@
+[package]
+name = "regression"
+version = "0.1.0"
+authors = ["Kyle Huey <khuey@kylehuey.com>"]
+
+[dependencies]
+futures = "0.1"
+owning_ref = "0.3"
